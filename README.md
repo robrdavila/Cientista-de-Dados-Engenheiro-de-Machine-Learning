@@ -4,8 +4,16 @@ Este repositório contém meu plano completo de estudos para iniciar na carreira
 
 ---
 
-## 🧩 Visão do Dia a Dia
+## 📖 Diagnóstico
+Resumo dos conhecimentos técnicos, fundamentos teóricos e soft skills que estou desenvolvendo:
 
+- **Técnicos**: Python (Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn), R, SQL, NoSQL, Git, Jupyter Notebook, VS Code.  
+- **Fundamentos**: Estatística descritiva e inferencial, álgebra linear, probabilidade, conceitos de overfitting/underfitting, aprendizado supervisionado e não supervisionado.  
+- **Soft Skills**: Comunicação clara, colaboração, pensamento crítico, adaptabilidade, visão de negócio e curiosidade intelectual.  
+
+---
+
+## 🧩 Visão do Dia a Dia
 Como é o trabalho de um(a) Cientista de Dados / Engenheiro de Machine Learning:
 
 - Coletar e organizar dados de diferentes fontes  
@@ -122,5 +130,23 @@ Ela cobre fundamentos de Python, estatística, manipulação de dados e introdu�
 
 ---
 
+## 🛠 Estrutura do Repositório
+Este repositório está organizado da seguinte forma:
+
+- `notebooks/` → exercícios e práticas em Jupyter Notebook (.ipynb)  
+- `projetos/` → projetos completos (ex.: Kaggle, UCI datasets)  
+- `estudos/` → resumos de vídeos, cursos e anotações (.md)  
+
+---
+
+## 🎯 Objetivo
+Consolidar a base técnica e desenvolver soft skills para atuar como Cientista de Dados Júnior, mostrando evolução contínua através de código, projetos e reflexões.
+
+---
+
 ✨ **Lembrete:** O mais importante é a constância, não a velocidade.  
 Comece pela Semana 1 e vá no seu ritmo.
+
+---
+
+## 📂 Estrutura de Pastas (exemplo)
